@@ -1,0 +1,13 @@
+
+/* 
+.servic h3{
+    text-align: center;
+}  */
+.card-feature{
+    width: 360px;
+    padding-top: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin: 10px;
+    background-color: rgb(250, 240, 248);
+    border-radius: 5px;
+}
